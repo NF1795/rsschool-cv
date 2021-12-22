@@ -6,7 +6,8 @@ _Frontend developer (JUNIOR)_
 - E-mail: <farajovnihad@gmail.com>
 - Linkedin: [Nıhad Farajov](https://www.linkedin.com/in/n%C4%B1had-farajov-6715ba173/)
 - Discord: NIHAD FARAJOV (NF1795)
-- About me: I always develop 
+## About me: 
+I always develop 
 I have a genuine belief I can succeed. But most importantly  I have a genuine passion for this subject.
 ## Skills
 - HTML5
@@ -49,3 +50,17 @@ I have a genuine belief I can succeed. But most importantly  I have a genuine pa
     </div>
 </header>
 ```
+## Education
+- Kocaeli University-Turkey
+_School of Managament(2014-2018) (B.A)_
+- WSB ACADEMY-Poland
+_International Managament(2021 -present M.A)
+- Udemy-web developer Ivan Petrichenko
+  2021
+##LANGUAGES
+Russian:NATIVE
+TURKISH:NATIVE
+ENGLISH:B2
+
+
+
