@@ -58,9 +58,10 @@ _International Managament(2021 -present M.A)
 - Udemy-web developer Ivan Petrichenko
   2021
 ## LANGUAGES
-Russian:NATIVE
-TURKISH:NATIVE
-ENGLISH:B2
+-`Russian:NATIVE`
+-`TURKISH:NATIVE`
+-`ENGLISH:B2`
+-`AZERBAIJANI:NATIVE`
 
 
 
