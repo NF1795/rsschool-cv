@@ -57,7 +57,7 @@ _School of Managament(2014-2018) (B.A)_
 _International Managament(2021 -present M.A)
 - Udemy-web developer Ivan Petrichenko
   2021
-##LANGUAGES
+## LANGUAGES
 Russian:NATIVE
 TURKISH:NATIVE
 ENGLISH:B2
